@@ -1,5 +1,5 @@
 # Images
 
-![](images/register.png)
+![](/images/register.png)
 
-![](images/get.png)
+![](/images/get.png)
